@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="logo.png" alt="Timechain HQ" width="120" height="120" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Timechain-HQ">Timechain HQ</a> ·
+  <a href="https://github.com/Timechain-HQ/roadmap">Roadmap</a> ·
+  <a href="https://www.timecoin.cash">timecoin.cash</a>
+</p>
+
 # Day-one post-quantum rules
+
+Organization roadmap: <https://github.com/Timechain-HQ/roadmap>
 
 The token is Timecoin. The ticker is TIC. The testnet at <https://github.com/Timechain-HQ/Timecoin> uses post-quantum signatures and post-quantum key encapsulation in the genesis rules. There is no classical signature path and no later upgrade that turns them on.
 
